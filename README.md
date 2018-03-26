@@ -1,11 +1,11 @@
 # Jumbotron - Digital Announcements Screen
 ## A cool way to digitize that old anouncments board in your school/work/buissness/ect!
-Project: Jumbotron
-Code Version: 1.2
-Author: Benjamin Sommer
-GitHub: https://github.com/remmosnimajneb
-Theme Design by: HTML5 UP [HTML5UP.NET] - Theme `Identity`
-Licensing Information: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+- Project: Jumbotron
+- Code Version: 1.2
+- Author: Benjamin Sommer
+- GitHub: https://github.com/remmosnimajneb
+- Theme Design by: HTML5 UP [HTML5UP.NET] - Theme `Identity`
+- Licensing Information: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 1. Overview
 2. Requirements & Install Instructions
